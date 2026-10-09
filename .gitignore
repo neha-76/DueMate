@@ -1,0 +1,15 @@
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+
+# Secret API keys
+.streamlit/secrets.toml
+.env
+
+# IDE and operating system files
+.vscode/
+.DS_Store
